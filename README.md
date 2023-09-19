@@ -1,10 +1,10 @@
 # Blockchain Database Project
 
 ## Introduction
-Welcome to the Blockchain Database Project—a cutting-edge solution for storing, accessing, and adding data to a secure and verifiable blockchain database using MySQL and Python. Our project combines the robustness of traditional relational databases with the immutability and transparency of blockchain technology.
+Welcome to the Blockchain Database Project—a cutting-edge solution for storing, accessing, and adding data to a secure and verifiable blockchain database using MySQL and Python. The project combines the robustness of traditional relational databases with the immutability and transparency of blockchain technology.
 
 ## Project Goals
-Our project aims to achieve the following objectives:
+The project aims to achieve the following objectives:
 
 1. Data Security: Ensure the safety and security of your data by storing it on a blockchain, which offers a tamper-proof and decentralized ledger.
 
@@ -15,7 +15,7 @@ Our project aims to achieve the following objectives:
 4. Scalability: Enable the system to scale as data requirements grow, ensuring the long-term viability of your blockchain database.
 
 ## Technology Stack
-Our Blockchain Database Project leverages the following technologies:
+The Blockchain Database Project leverages the following technologies:
 
 1. MySQL: A well-established relational database management system for efficient data storage and retrieval.
 
